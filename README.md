@@ -4,6 +4,7 @@
 </header>
 <main>
     <figure>
-        <img src="">
+        <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/theTronVelotrol.gif">
     </figure>
+    <h2> Divirtão-se e vamos codar!💻</h2>
 </main>
